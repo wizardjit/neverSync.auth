@@ -1,0 +1,1 @@
+# neverSync.auth
